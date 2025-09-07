@@ -6,7 +6,7 @@ description: Observability
 
 ## Setup Guide
 
-This section describes how to set up the monitoring stack (Prometheus + Grafana) provided in the `examples/monitoring` directory.
+This section describes how to set up the monitoring stack (Prometheus + Grafana) provided in the [example/monitoring](https://app.gitbook.com/u/ZHHBY5Eo1KNs9EWJFC4xPNJ3pl93) directory.
 
 ### Prerequisites
 
