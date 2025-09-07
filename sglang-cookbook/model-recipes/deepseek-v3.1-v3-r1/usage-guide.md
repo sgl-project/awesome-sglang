@@ -226,10 +226,6 @@ python3 -m sglang.launch_server --model-path /path/to/DeepSeek-V3-BF16 --tp 32 -
 
 ### <mark style="background-color:green;">Serving with 8 x A100</mark>
 
-<<<<<<< HEAD
-1. Install SGLang following [the instruction](https://app.gitbook.com/s/FFtIWT8LEMaYiYzz0p8P/sglang-cookbook/installation/nvidia-h-series-a-series-and-rtx-gpus)
-2. Serve the model
-=======
 {% stepper %}
 {% step %}
 ### Install SGLang
@@ -239,7 +235,6 @@ Following [the instruction](https://app.gitbook.com/o/TvLfyTxdRQeudJH7e5QW/s/FFt
 
 {% step %}
 ### Serve the model
->>>>>>> c926237 (.)
 
 {% code overflow="wrap" %}
 ```bash
