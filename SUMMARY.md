@@ -15,6 +15,8 @@
       * [Usage Guide](sglang-cookbook/model-recipes/deepseek-v3.1-v3-r1/usage-guide.md)
     * [GPT-OSS](sglang-cookbook/model-recipes/gpt-oss/README.md)
       * [Usage Guide](sglang-cookbook/model-recipes/gpt-oss/usage-guide.md)
+    * [Llama 4](sglang-cookbook/model-recipes/llama-4/README.md)
+      * [Usage Guide](sglang-cookbook/model-recipes/llama-4/usage-guide.md)
   * [API](sglang-cookbook/api/README.md)
     * [OpenAI APIs - Completions](sglang-cookbook/api/openai-apis-completions.md)
     * [OpenAI APIs - Vision](sglang-cookbook/api/openai-apis-vision.md)
